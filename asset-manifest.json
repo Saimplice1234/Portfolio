@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.777d93f3.css",
-    "main.js": "/portfolio/static/js/main.5263a8df.js",
+    "main.css": "/portfolio/static/css/main.ab78567c.css",
+    "main.js": "/portfolio/static/js/main.f036cb92.js",
     "static/js/787.9b9c0edf.chunk.js": "/portfolio/static/js/787.9b9c0edf.chunk.js",
+    "static/media/choco.svg": "/portfolio/static/media/choco.3a6b6d458f3a1a5f4d9d137a1c6d1a76.svg",
+    "static/media/NeueMachina-Regular.otf": "/portfolio/static/media/NeueMachina-Regular.6c408aeebce449ab7d74.otf",
+    "static/media/NeueMachina-Ultrabold.otf": "/portfolio/static/media/NeueMachina-Ultrabold.07d4eef9a71d90303bbf.otf",
     "static/media/SplineSans-Bold.ttf": "/portfolio/static/media/SplineSans-Bold.5789dfb91895c59fc743.ttf",
     "static/media/SplineSans-Medium.ttf": "/portfolio/static/media/SplineSans-Medium.cbaa88c7f8069285f56f.ttf",
-    "static/media/Taieri.svg": "/portfolio/static/media/Taieri.35a6e876723ba937de0f7cb82ee2200b.svg",
+    "static/media/Pattern.svg": "/portfolio/static/media/Pattern.d6a0ac9d613e62c37f7cecac736b62c8.svg",
     "index.html": "/portfolio/index.html",
-    "main.777d93f3.css.map": "/portfolio/static/css/main.777d93f3.css.map",
-    "main.5263a8df.js.map": "/portfolio/static/js/main.5263a8df.js.map",
+    "static/media/Pattern-2.svg": "/portfolio/static/media/Pattern-2.ed27ae2ffad1945dc84e3464d73a4f4f.svg",
+    "main.ab78567c.css.map": "/portfolio/static/css/main.ab78567c.css.map",
+    "main.f036cb92.js.map": "/portfolio/static/js/main.f036cb92.js.map",
     "787.9b9c0edf.chunk.js.map": "/portfolio/static/js/787.9b9c0edf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.777d93f3.css",
-    "static/js/main.5263a8df.js"
+    "static/css/main.ab78567c.css",
+    "static/js/main.f036cb92.js"
   ]
 }
